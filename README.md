@@ -1,6 +1,7 @@
 # OFDM-on-FPGA
-The word communication arises from the Latin word ‘commūnicāre’, which
-means “to share”. 
+WORK IN PROGRESS
+
+The word communication arises from the Latin word ‘commūnicāre’, which means “to share”. 
 
 Communication can be basically defined step for exchange of information. 
 
